@@ -1,2 +1,2 @@
 # project-neural-ersatz
-Machine Language project for university abstract algebra project.
+Machine learning project for university abstract algebra project.
